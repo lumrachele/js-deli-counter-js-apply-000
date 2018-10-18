@@ -2,7 +2,7 @@ function takeANumber (line, name){
 //  var i = 0
 //for (let i = 0; i < line.length; i++) {
   line.push(`${name}`)
-return (`Welcome, ${name}. You are number _ in line.`)
+return (`Welcome, ${name}. You are number line.indexOf in line.`)
 //  }
 }
 
